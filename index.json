@@ -1,0 +1,10 @@
+{
+    "Dwarka":{
+        "temperature": 30,
+        "humidity": 70
+    },
+    "Badrinath":{
+        "temperature": 15,
+        "humidity": 80
+    }
+}
