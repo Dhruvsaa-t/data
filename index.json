@@ -1,10 +1,96 @@
 {
-    "Dwarka":{
-        "temperature": 30,
-        "humidity": 70
+  "dwarka": {
+    "temperature": 33,
+
+    "main book button": "https://yatradham.org/yatradham-destinations/gujarat/dwarka.html",
+    "main call button": "1345",
+
+    "darshan": {
+      "morning": "6:30 AM – 1:00 PM",
+      "evening": "5:00 PM – 9:30 PM",
+      "aarti": {
+        "mangla aarti": "6:30 AM",
+        "shringar aarti": "10:30 AM",
+        "sandhya aarti": "7:30 PM",
+        "shayan aarti": "8:30 PM"
+      },
+      "vip darshan": {
+        "available": "true",
+        "name": "YatraDham Dwarka Darshan Yatra",
+        "book now": "https://temple.yatradham.org/puja/dwarka-darshan-yatra",
+        "call": "9664842287"
+      },
+      "prasad": "Prasad is distributed inside the temple on many occasions after bhog"
     },
-    "Badrinath":{
-        "temperature": 15,
-        "humidity": 80
+
+    "near places": {
+      "gomti ghat": {
+        "description": "Sacred bathing ghat on the Gomti River where pilgrims take a holy dip before visiting the Dwarkadhish Temple.",
+        "distance": "2-3 min walk"
+      },
+      "sudama setu": {
+        "description": "Pedestrian suspension bridge over the Gomti River, named after Lord Krishna's childhood friend Sudama, offering beautiful views of Dwarka and the river.",
+        "distance": "5 min walk"
+      },
+      "rukmini devi temple": {
+        "description": "Ancient temple dedicated to Goddess Rukmini, the chief queen of Lord Krishna, renowned for its intricate carvings and the legend of Sage Durvasa's curse.",
+        "distance": "2 km from Temple"
+      },
+      "bhadkeshwar mahadev temple": {
+        "description": "Ancient Lord Shiva temple built on a rocky islet in the Arabian Sea, famous for being surrounded by seawater during high tide and offering stunning sunset views.",
+        "distance": "2 km from Temple"
+      }
+    },
+
+    "transport": {
+      "auto": "₹30–100",
+      "shared auto": "₹10–30",
+      "taxi (full day)": "₹1,800–3,000",
+      "bike & scooter rental": "₹300–800/day",
+      "ola": false,
+      "uber": false,
+      "rapido": false
+    },
+
+    "food": {
+      "gujarati": true,
+      "jain": true,
+      "budget bhojnalaya": "₹80–150 per person",
+      "gujarati thali": "₹150–250 per person",
+      "restaurant price": "₹200–400 per person",
+      "free prasad": "Outside the temple there are also several charitable bhojnalayas and satsang organizations that occasionally serve free prasad",
+      "swiggy": false,
+      "zomato": false
+    },
+
+    "parking": {
+      "available": true,
+      "paid parking": "₹20–300 (depends on vehicle size and duration)",
+      "distance": "2-5 min from Temple"
+    },
+
+    "yatradham package": {
+      "package 1": {
+        "name": "Dwarka One Day Sightseeing Tour",
+        "book now": "https://travel.yatradham.org/dwarka-one-day-sightseeing-tour",
+        "call": "123"
+      },
+      "package 2": {
+        "name": "Dwarka to Somnath Car Trip",
+        "book now": "https://travel.yatradham.org/dwarka-to-somnath-car-trip",
+        "call": "123"
+      },
+      "package 3": {
+        "name": "Dwarka to Beyt Dwarka Trip by Cab",
+        "book now": "https://travel.yatradham.org/dwarka-to-beyt-dwarka-trip-by-cab",
+        "call": "123"
+      },
+      "cab": "YatraDham cab service also available at same package number"
+    },
+
+    "yd info": {
+      "book puja vip darshan": "9664842287",
+      "yatradham cab & package": "123"
     }
+  }
 }
