@@ -5,9 +5,11 @@
     "main book button": "https://yatradham.org/yatradham-destinations/gujarat/dwarka.html",
     "main call button": "1345",
 
-    "avg distance from temple": "200 meter to 1.4km",
-    "avg check in time": "11 am",
-    "avg check out time": "9 am",
+    "stay": {
+      "avg distance from temple": "200 meter to 1.4km",
+      "avg check in time": "11 am",
+      "avg check out time": "9 am",
+    },
 
     "darshan": {
       "morning": "6:30 AM – 1:00 PM",
